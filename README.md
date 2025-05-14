@@ -45,8 +45,21 @@ Morse code can be sent using different methods:
 (Spacing between letters: 3 units)  
 
 ---
+## **5. How Morse Code is Transmitted**  
+Morse code can be sent using different methods:  
+- **Telegraph (Electrical Pulses)** → Original method using wires.  
+- **Radio (Audible Tones)** → Used in aviation and maritime.  
+- **Light Signals (Flashes)** → Used in military and emergencies.  
+- **Tapping (Physical Vibration)** → Used by prisoners or covert ops.  
 
-## **5. Modern Uses of Morse Code**  
+### **Example Transmission: "HELLO"**  
+```
+···· (H) · (E) ·−·· (L) ·−·· (L) −−− (O)  
+```
+(Spacing between letters: 3 units)  
+
+---
+## **6. Modern Uses of Morse Code**  
 Despite digital communication, Morse code is still used in:  
 - **Amateur Radio (HAM operators)**  
 - **Aviation (NDB & VOR navigation beacons)**  
